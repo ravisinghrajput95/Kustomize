@@ -1,0 +1,7 @@
+bases:
+  - ../../base
+commonLabels:
+  environment: staging
+
+resources:
+  - mysql-depl.yaml
